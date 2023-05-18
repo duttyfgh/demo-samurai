@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-way-of-samurai/static/css/main.8105590d.css",
+    "main.js": "/react-way-of-samurai/static/js/main.ed6550c2.js",
+    "static/css/379.8c284c3d.chunk.css": "/react-way-of-samurai/static/css/379.8c284c3d.chunk.css",
+    "static/js/379.10ab7ac9.chunk.js": "/react-way-of-samurai/static/js/379.10ab7ac9.chunk.js",
+    "static/css/547.816d96c6.chunk.css": "/react-way-of-samurai/static/css/547.816d96c6.chunk.css",
+    "static/js/547.a908bfa1.chunk.js": "/react-way-of-samurai/static/js/547.a908bfa1.chunk.js",
+    "static/css/89.c556d483.chunk.css": "/react-way-of-samurai/static/css/89.c556d483.chunk.css",
+    "static/js/89.4f114585.chunk.js": "/react-way-of-samurai/static/js/89.4f114585.chunk.js",
+    "static/js/787.eaaab13d.chunk.js": "/react-way-of-samurai/static/js/787.eaaab13d.chunk.js",
+    "static/media/gitHub.svg": "/react-way-of-samurai/static/media/gitHub.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/twitter.svg": "/react-way-of-samurai/static/media/twitter.f12873d9dc21c7cded929b9880631972.svg",
+    "static/media/instagram.svg": "/react-way-of-samurai/static/media/instagram.e2919f57328d2495b1fc84f45454964c.svg",
+    "index.html": "/react-way-of-samurai/index.html",
+    "static/media/preloader.svg": "/react-way-of-samurai/static/media/preloader.637e3fa7beeb9321799b415658c571e6.svg",
+    "main.8105590d.css.map": "/react-way-of-samurai/static/css/main.8105590d.css.map",
+    "main.ed6550c2.js.map": "/react-way-of-samurai/static/js/main.ed6550c2.js.map",
+    "379.8c284c3d.chunk.css.map": "/react-way-of-samurai/static/css/379.8c284c3d.chunk.css.map",
+    "379.10ab7ac9.chunk.js.map": "/react-way-of-samurai/static/js/379.10ab7ac9.chunk.js.map",
+    "547.816d96c6.chunk.css.map": "/react-way-of-samurai/static/css/547.816d96c6.chunk.css.map",
+    "547.a908bfa1.chunk.js.map": "/react-way-of-samurai/static/js/547.a908bfa1.chunk.js.map",
+    "89.c556d483.chunk.css.map": "/react-way-of-samurai/static/css/89.c556d483.chunk.css.map",
+    "89.4f114585.chunk.js.map": "/react-way-of-samurai/static/js/89.4f114585.chunk.js.map",
+    "787.eaaab13d.chunk.js.map": "/react-way-of-samurai/static/js/787.eaaab13d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8105590d.css",
+    "static/js/main.ed6550c2.js"
+  ]
+}
