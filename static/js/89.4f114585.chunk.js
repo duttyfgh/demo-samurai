@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksocial_network=self.webpackChunksocial_network||[]).push([[89],{8089:function(o,n,t){t.r(n),t.d(n,{default:function(){return i}});t(2791);var l=t(8687),s="Settings_logout__IaWQ5",e=t(9268),a=t(184),i=(0,l.$j)(null,{logout:e.kS})((function(o){return(0,a.jsx)("div",{children:(0,a.jsxs)("span",{className:s,children:["Logout",(0,a.jsx)("i",{onClick:o.logout,className:["fa-solid fa-person-walking-arrow-right"],title:"logout?"})]})})}))}}]);
-//# sourceMappingURL=89.4f114585.chunk.js.map
